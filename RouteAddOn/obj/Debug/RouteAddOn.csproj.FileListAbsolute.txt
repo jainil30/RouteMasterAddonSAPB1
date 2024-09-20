@@ -1,0 +1,6 @@
+C:\Users\BAPS\source\repos\RouteAddOn\RouteAddOn\bin\Debug\RouteAddOn.exe
+C:\Users\BAPS\source\repos\RouteAddOn\RouteAddOn\bin\Debug\RouteAddOn.pdb
+C:\Users\BAPS\source\repos\RouteAddOn\RouteAddOn\obj\Debug\RouteAddOn.csproj.CoreCompileInputs.cache
+C:\Users\BAPS\source\repos\RouteAddOn\RouteAddOn\obj\Debug\RouteAddOn.exe
+C:\Users\BAPS\source\repos\RouteAddOn\RouteAddOn\obj\Debug\RouteAddOn.pdb
+C:\Users\BAPS\source\repos\RouteAddOn\RouteAddOn\obj\Debug\RouteAddOn.csproj.AssemblyReference.cache
